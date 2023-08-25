@@ -4,7 +4,7 @@ main:
     url: /portfolio/
         
   - title: "Blog Posts"
-    url: /year-archive/
+    url: /blog-posts/
     
   - title: "CV (PDF)"
     url: /files/CV.pdf
