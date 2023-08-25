@@ -16,4 +16,4 @@ I aspire to become a computer hardware engineer and involve myself in entreprene
 
 # Selected Experience
 
-## To be added
+## I currently lack experience, however, I'm eager to learn and dedicated to becoming a valueable team member. 
