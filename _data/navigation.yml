@@ -6,7 +6,7 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
     
-  - title: "CV (pdf)"
+  - title: "CV"
     url: /files/CV.pdf
 
   #- title: "Publications"
